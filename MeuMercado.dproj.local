@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 20:09:19.000.867,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 20:11:11.000.438,D:\99Coders\CursoMercado\Fontes\Mobile\UniLogin.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 20:11:11.000.438,D:\99Coders\CursoMercado\Fontes\Mobile\UniLogin.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/01/17 20:11:18.000.190,D:\99Coders\CursoMercado\Fontes\Mobile\MeuMercado.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/24 20:11:35.000.564,=D:\99Coders\CursoMercado\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/01/24 20:11:49.000.584,D:\99Coders\CursoMercado\Fontes\Mobile\Unit1.fmx=D:\99Coders\CursoMercado\Fontes\Mobile\UnitPrincipal.fmx</Transaction>
+    <Transaction>2022/01/24 20:11:49.000.584,D:\99Coders\CursoMercado\Fontes\Mobile\Unit1.pas=D:\99Coders\CursoMercado\Fontes\Mobile\UnitPrincipal.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
